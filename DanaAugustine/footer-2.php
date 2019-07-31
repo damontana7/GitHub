@@ -40,7 +40,7 @@
 				</div>
 				
 				<div class="col-4 col-lg-2 col-md-6 col-sm-6 col-xs-12">
-					<aside id="nav_menu-6" class="widget widget_nav_menu"><h4 class="widget-title">Contact</h4><div class="menu-swana-container"><ul id="menu-contact-1" class="menu"><li class="https://www.danaaugustineinc.com/contact-us/"><a href="http://timwsuccess.com/demos/dai/contact-us/">Contact</a></li>
+					<aside id="nav_menu-6" class="widget widget_nav_menu"><h4 class="widget-title">Contact</h4><div class="menu-swana-container"><ul id="menu-contact-1" class="menu"><li class="https://www.danaaugustineinc.com/contact-us/"><a href="https://www.danaaugustineinc.com/contact-us/">Contact</a></li>
 						<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-120161"><a href="https://www.danaaugustineinc.com/careers/">Careers</a></li>		
 						
 </ul></div>
