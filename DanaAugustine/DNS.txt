@@ -1,0 +1,27 @@
+;---------------------------------------------
+; Current zone definition
+;---------------------------------------------
+danaaugustineinc.com. 180 IN A 148.72.69.98
+danaaugustineinc.com. 180 IN MX 10 inbound.electric.net.
+application.danaaugustineinc.com. 600 IN A 50.62.226.1
+calendar.danaaugustineinc.com. 180 IN CNAME login.secureserver.net.
+cassi.danaaugustineinc.com. 180 IN CNAME danaaugustineinc.com.
+cassi2.danaaugustineinc.com. 1800 IN A 50.62.226.1
+cassi-dev.danaaugustineinc.com. 1800 IN CNAME danaaugustineinc.com.
+dev.danaaugustineinc.com. 600 IN CNAME danaaugustineinc.com.
+email.danaaugustineinc.com. 180 IN CNAME email.secureserver.net.
+fax.danaaugustineinc.com. 180 IN CNAME login.secureserver.net.
+files.danaaugustineinc.com. 180 IN CNAME login.secureserver.net.
+ftp.danaaugustineinc.com. 180 IN CNAME danaaugustineinc.com.
+imap.danaaugustineinc.com. 180 IN CNAME imap.secureserver.net.
+mail.danaaugustineinc.com. 180 IN CNAME pop.secureserver.net.
+mobilemail.danaaugustineinc.com. 180 IN CNAME mobilemail-v01.prod.mesa1.secureserver.net.
+pop.danaaugustineinc.com. 180 IN CNAME pop.secureserver.net.
+search.danaaugustineinc.com. 180 IN CNAME danaaugustineinc.com.
+smtp.danaaugustineinc.com. 180 IN CNAME smtp.secureserver.net.
+www.danaaugustineinc.com. 1800 IN CNAME danaaugustineinc.com.
+www1.danaaugustineinc.com. 180 IN CNAME danaaugustineinc.com.
+www2.danaaugustineinc.com. 180 IN CNAME danaaugustineinc.com.
+www3.danaaugustineinc.com. 1800 IN CNAME danaaugustineinc.com.
+www4.danaaugustineinc.com. 1800 IN CNAME danaaugustineinc.com.
+;---------------------------------------------
